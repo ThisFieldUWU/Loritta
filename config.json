@@ -1,7 +1,7 @@
 {
-  "clientToken": "Client Token do Bot",
-  "clientId": "Client ID do Bot",
-  "clientSecret": "Client Secret do Bot",
+  "clientToken": "NDI1MDU0NTk0MTg4NTc0NzQw.Dp8IuQ.FI4mBDnUracAMjFtKZ3jOaKdL-w",
+  "clientId": "425054594188574740",
+  "clientSecret": "m_i3QMjWnGVYIG2oCe-OLR3P35sjEpxJ",
   "youtubeKey": "Key da API do YouTube, usado no comando \"+youtube\"",
   "ownerId": "ID do dono do bot, usado para alguns comandos \"especiais\"",
   "websiteUrl": "URL do website da Loritta, coloque uma / no final!",
